@@ -1,0 +1,2 @@
+C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.Entidades\obj\Debug\Chifa.Entidades.csproj.AssemblyReference.cache
+C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.Entidades\obj\Debug\Chifa.Entidades.csproj.CoreCompileInputs.cache
