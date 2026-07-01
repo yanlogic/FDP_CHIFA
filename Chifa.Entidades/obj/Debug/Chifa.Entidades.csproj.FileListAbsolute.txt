@@ -1,0 +1,6 @@
+C:\Users\UPN\Downloads\PROYECTO_FINAL\Chifa.Entidades\bin\Debug\Chifa.Entidades.dll
+C:\Users\UPN\Downloads\PROYECTO_FINAL\Chifa.Entidades\bin\Debug\Chifa.Entidades.pdb
+C:\Users\UPN\Downloads\PROYECTO_FINAL\Chifa.Entidades\obj\Debug\Chifa.Entidades.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\PROYECTO_FINAL\Chifa.Entidades\obj\Debug\Chifa.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\PROYECTO_FINAL\Chifa.Entidades\obj\Debug\Chifa.Entidades.dll
+C:\Users\UPN\Downloads\PROYECTO_FINAL\Chifa.Entidades\obj\Debug\Chifa.Entidades.pdb
