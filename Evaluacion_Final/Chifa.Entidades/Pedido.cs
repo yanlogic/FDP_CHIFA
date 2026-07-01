@@ -1,4 +1,6 @@
-﻿namespace Chifa.Entidades
+﻿using System.IO;
+
+namespace Chifa.Entidades
 {
     public class Pedido
     {

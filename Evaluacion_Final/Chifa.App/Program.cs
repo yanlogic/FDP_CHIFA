@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Chifa.Logica;
+using Chifa.Entidades;
 
 namespace Chifa.App
 {
@@ -11,8 +12,7 @@ namespace Chifa.App
     {
         static void Main(string[] args)
         {
-            // -- Configuración visual del sistema
-            Console.Title = "Sistema Chifa Fa v2.0";
+            Console.Title = "Sistema Chifa Fa";
             Console.CursorVisible = false;
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
@@ -53,7 +53,14 @@ namespace Chifa.App
                     bool resultado = false;
                     switch (opcionActual)
                     {
-                        //Aquí irán los resultados de las opciones seleccionadas
+                        case 0: resultado = gestor.RegistrarNuevoPedido(); break;  // RF01
+                        case 1: resultado = gestor.ConsultarCarta(); break;  // RF02
+                        case 2: resultado = gestor.CobrarMesa(); break;  // RF03
+                        case 3: resultado = gestor.ModificarPedido(); break;  // RF04
+                        case 4: resultado = gestor.MostrarReporteDiario(); break;  // RF05
+                        case 5: resultado = GestorArchivos.LeerHistorialTXT(); break;
+                        case 6: resultado = gestor.ListarPedidos(); break;  // RF07
+                        case 7: salir = true; break;
                     }
 
                     if (!salir && resultado)
@@ -71,8 +78,18 @@ namespace Chifa.App
                 else if (tecla.KeyChar == '0')
                 {
                     // Tecla oculta: simular 50 registros
+                    Console.Clear();
+                    ClaseInterfaz.DibujarMarcoBase();
+                    gestor.Simular50Registros();
+                    Console.ReadKey(true);
                 }
             }
+
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("\n\n  Gracias por usar Sistema Chifa Fa. ¡Hasta pronto!");
+            Console.ResetColor();
+            System.Threading.Thread.Sleep(1500);
         }
     }
 }

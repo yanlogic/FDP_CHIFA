@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Chifa.Entidades">
+      <HintPath>..\Chifa.Entidades\bin\Debug\Chifa.Entidades.dll</HintPath>
+    </Reference>
     <Reference Include="Chifa.Logica">
       <HintPath>..\Chifa.Logica\bin\Debug\Chifa.Logica.dll</HintPath>
     </Reference>
