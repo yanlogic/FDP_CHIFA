@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="../Chifa.Entidades/Chifa.Entidades.csproj" Id="a25ed7f5-3924-43a2-8477-68df05066050" />
-  <Project Path="../Chifa.Logica/Chifa.Logica.csproj" Id="1e6b73da-f3ff-4cb5-a476-66c1bfce450e" />
-  <Project Path="Chifa.App.csproj" Id="1b1d1581-b437-4aba-96c8-68b55c90ad98" />
-</Solution>
