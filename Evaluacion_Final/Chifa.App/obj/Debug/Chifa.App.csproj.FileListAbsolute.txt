@@ -1,7 +1,10 @@
-C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.App\bin\Debug\Chifa.App.exe.config
-C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.App\bin\Debug\Chifa.App.exe
-C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.App\bin\Debug\Chifa.App.pdb
-C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.csproj.AssemblyReference.cache
-C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.csproj.CoreCompileInputs.cache
-C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.exe
-C:\Users\yannw\Downloads\proyectos\fundamentos programacion\PROYECTO_FINAL\PROYECTO_FINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.pdb
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\bin\Debug\Chifa.App.exe.config
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\bin\Debug\Chifa.App.exe
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\bin\Debug\Chifa.App.pdb
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\bin\Debug\Chifa.Logica.dll
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\bin\Debug\Chifa.Logica.pdb
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.csproj.Up2Date
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.exe
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.App\obj\Debug\Chifa.App.pdb
