@@ -1,0 +1,6 @@
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.Logica\bin\Debug\Chifa.Logica.dll
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.Logica\bin\Debug\Chifa.Logica.pdb
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.Logica\obj\Debug\Chifa.Logica.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.Logica\obj\Debug\Chifa.Logica.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.Logica\obj\Debug\Chifa.Logica.dll
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.Logica\obj\Debug\Chifa.Logica.pdb

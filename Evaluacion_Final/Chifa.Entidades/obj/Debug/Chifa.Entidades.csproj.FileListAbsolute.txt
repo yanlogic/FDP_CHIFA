@@ -1,0 +1,2 @@
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.Entidades\obj\Debug\Chifa.Entidades.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\PROYECTOFINAL\Evaluacion_Final\Chifa.Entidades\obj\Debug\Chifa.Entidades.csproj.CoreCompileInputs.cache
