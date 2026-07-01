@@ -2,6 +2,17 @@
 {
     public class Plato
     {
-        // Aquí irá la base de datos de los platos que se tienen en el Chifa
+        public string Codigo { get; set; }
+        public string Nombre { get; set; }
+        public double Precio { get; set; }
+        public string Categoria { get; set; }
+
+        public Plato(string codigo, string nombre, double precio, string categoria)
+        {
+            Codigo = codigo;
+            Nombre = nombre;
+            Precio = precio;
+            Categoria = categoria;
+        }
     }
 }
